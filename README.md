@@ -51,5 +51,20 @@ This project was developed as part of a **group collaboration**.
 - Contributed to backend automations using **Make.com** and **Google Sheets**  
 - Collaborated with teammates in a no-code environment to produce a functional, real-time support tool
 
-## 📸 Screenshots / Demo (Optional)
+## 📸 Screenshots / Demo
+![Welcome]
+![Main Menu]
+![Program Overview]
+![Available Opportunities]
+![Other Opportunities](https://github.com/user-attachments/assets/e02f37a7-7004-4b67-873e-ad69b1983db4)
+![Application process](https://github.com/user-attachments/assets/8e63a3bb-d5d6-474c-9c06-be1278b391b5)
+![Requirements](https://github.com/user-attachments/assets/d21233bc-cf98-4941-bc71-fe2808b725ce)
+![Documents](https://github.com/user-attachments/assets/7c330cb5-c98c-4eb3-9611-797a379ccffd)
+![Contact](https://github.com/user-attachments/assets/3f04fa4e-1f54-4ac0-b5d7-985fdd9741e7)
+![FAQs](https://github.com/user-attachments/assets/8f4f751a-31b7-4d22-8c61-e74e6b7f3058)
+![FAQs2](https://github.com/user-attachments/assets/5ee8663c-c954-402f-99dc-18c632200259)
+![FAQs3](https://github.com/user-attachments/assets/29ce7b18-a77f-4b32-ba5c-b305bca07398)
+![Send query](https://github.com/user-attachments/assets/235f6beb-f731-4e53-a44a-e47d27a470b5)
+![Fill details](https://github.com/user-attachments/assets/7b905896-b813-4906-adbc-04924a566146)
+![Query sent](https://github.com/user-attachments/assets/c4c0be19-d860-409d-ada4-49fcbb6954d6)
 
